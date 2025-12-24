@@ -20,7 +20,7 @@ const App: React.FC = () => {
             </div>
             <h1 className="text-8xl md:text-[10rem] font-black mb-6 leading-[0.8] uppercase tracking-tighter">
               MIND<br />
-              <span className="bg-gradient-to-r from-primary via-white to-secondary bg-clip-text text-transparent italic">
+              <span className="text-gray-700 italic">
                 MACH
               </span>
             </h1>
